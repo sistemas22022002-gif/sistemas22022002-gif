@@ -1,6 +1,6 @@
 # ¡Hola! Soy un apasionado de la Ciberseguridad 🚀
 
-<img src="https://shields.io" alt="DevSecOps Badge" />
+`🛠️ DevSecOps Security Scan: Active & Passing`
 
 ### Futuro DevSecOps Engineer
 
@@ -9,13 +9,15 @@ Bienvenido a mi perfil de GitHub. Me interesa profundamente el mundo de la segur
 ---
 
 ### 🛠️ Stack Tecnológico & Herramientas
-- **Sistemas Operativos & Consola:** Linux | Bash | PowerShell
-- **Lenguajes (Aprendiendo/Usando):** Python | Go
-- **Intereses Principales:** DevSecOps | Automatización de Seguridad | Hardening de Sistemas
+
+*   **Sistemas Operativos:** 🐧 Linux | 🖥️ Windows (PowerShell & Bash)
+*   **Lenguajes de Programación:** 🐍 Python | 🐹 Go
+*   **Áreas de Enfoque:** 🛡️ DevSecOps | ⚙️ Automatización de Seguridad | 🔒 Hardening de Sistemas
 
 ---
 
 ### 🚀 Mis Objetivos
+
 - 🛡️ Automatizar análisis de vulnerabilidades en entornos de desarrollo.
 - 💻 Desarrollar scripts útiles para la gestión de sistemas seguros.
 - 📚 Obtener certificaciones clave de la industria.
@@ -23,9 +25,10 @@ Bienvenido a mi perfil de GitHub. Me interesa profundamente el mundo de la segur
 ---
 
 ### 📫 Conéctate conmigo
+
 - 💼 **LinkedIn:** [Brayd Enrique Aire Bonilla](https://linkedin.com)
 - 📧 **Email:** sistemas22022002@gmail.com
 
 <p align="center">  
-  <img src="https://vercel.app" alt="Mis estadísticas de GitHub" />
+  <b>💻 ¡Bienvenido a mi entorno de desarrollo seguro!</b>
 </p>
