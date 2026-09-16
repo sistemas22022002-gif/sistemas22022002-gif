@@ -1,6 +1,6 @@
 # ¡Hola! Soy un apasionado de la Ciberseguridad 🚀
 
-[![DevSecOps Security Scan](https://shields.io)](https://github.com)
+![DevSecOps Security Scan](https://github.com)
 
 ### Futuro DevSecOps Engineer
 
