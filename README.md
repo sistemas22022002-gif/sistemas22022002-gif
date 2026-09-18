@@ -16,6 +16,12 @@ Bienvenido a mi perfil de GitHub. Me interesa profundamente el mundo de la segur
 
 ---
 
+### 🚀 Mis Proyectos Destacados (DevSecOps)
+
+*   📁 **[DevSecOps SAST Pipeline](https://github.com):** Pipeline automatizado con GitHub Actions y Trivy para detectar fallos de seguridad en contenedores Docker en tiempo real.
+*   🐍 **[Python Audit Tool](https://github.com):** Script automatizado en Python para auditoría de configuraciones e identificación de fugas de credenciales en entornos de desarrollo.
+
+
 ### 🚀 Mis Objetivos
 
 - 🛡️ Automatizar análisis de vulnerabilidades en entornos de desarrollo.
